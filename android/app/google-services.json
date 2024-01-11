@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "38923199286",
+    "project_id": "login-fd54c",
+    "storage_bucket": "login-fd54c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38923199286:android:98846c69d6be19305b8997",
+        "android_client_info": {
+          "package_name": "com.voicene.cheersclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38923199286-4omokdqfvbqjoijnl38s9bc9feh94ec6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.voicene.cheersclub",
+            "certificate_hash": "9cfe4c39c8e7b2803452d5d142f59794bfb08c16"
+          }
+        },
+        {
+          "client_id": "38923199286-f4189kap7nkqpd11ber9c8blboekl0ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdW5M8hEDaHwZAM_7y_mWLQBIbGUHpocQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38923199286-f4189kap7nkqpd11ber9c8blboekl0ge.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "38923199286-50ov7l5rbngkkdnnd6kmshafrmrurocn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.voicene.cheersclubz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

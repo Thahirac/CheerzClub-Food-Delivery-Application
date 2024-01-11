@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CheerzClub</string>
+    <string name="facebook_app_id">165462305800050</string>
+    <string name="facebook_client_token">044bdb7e33dc7e81bd56aecfb54a086d</string>
+    <string name="fb_login_protocol_scheme">fb165462305800050</string>
+</resources>
+
+
+
+
+
